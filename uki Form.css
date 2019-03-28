@@ -1,0 +1,17 @@
+h2 {
+text-align:center
+}
+
+div.a {
+   border: 0px solid black;
+   height: 580px;
+   width:650px;
+   background-color: #9AD0E1;
+   margin-right:100px;
+   text-align: left;
+}
+
+
+td {
+  padding: 10px;
+}
